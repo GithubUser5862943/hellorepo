@@ -5,6 +5,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Github");
 		System.out.println("First change");
+		System.out.println("Second change");
 	}
 
 }
